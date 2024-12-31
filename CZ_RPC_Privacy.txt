@@ -1,0 +1,34 @@
+Privacy Policy for Chroma Zero Rich Presence
+Introduction
+
+Chroma Zero Rich Presence is an extension that enhances the user experience by integrating in-game activity from Chroma Zero with Discord Rich Presence. We are committed to protecting your privacy and ensuring transparency in how your data is handled.
+Data Collection
+
+Chroma Zero Rich Presence only collects the following types of data:
+
+    If you are playing Chroma Zero
+    If you have stopped playing Chroma Zero
+
+How We Use the Data
+
+    In-game data is only used to update your Discord Rich Presence status in real-time. This data is not shared with third parties.
+
+Data Storage
+
+    Local Storage: None
+    Server Communication: If Chroma Zero is running, that information is used to update your Discord status. No user data is stored or sent outside of your local environment.
+
+Third-Party Sharing
+
+We do not sell, trade, or otherwise transfer any user data to outside parties. The data captured by the extension is used only for the purpose of enhancing your in-game experience with Discord Rich Presence.
+
+Data Security
+
+In-game status is handled via the official Discord API.
+
+Contact Us
+
+If you have any questions or concerns regarding this privacy policy, please contact us:
+
+    Email: chromazerogame@gmail.com
+    GitHub: https://github.com/ekorz/ZeroXP/CZ_RPC_Privacy.txt
