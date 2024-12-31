@@ -1,0 +1,12 @@
+Terms of Service
+
+By using this Discord App you are agreeing to the following Terms of Service.
+
+You may not use this app for any purpose that violates the Discord Terms of Service. Use of the app signifies that you have read, understood, and agree to be bound by the Discord Terms of Service.
+You agree not to use the App for any malicious or abusive purposes, including but not limited to spamming, harassment, or unauthorized access. 
+
+You may not use the app for anything other than its intended purpose, which is to relay your game state (i.e. that you are playing Chroma Zero) to Discord.
+
+Considering the only way you could attempt either of those is by altering the binary of Chroma Zero, you also agree not to alter the binary of Chroma Zero. 
+
+Thank you that is all.
